@@ -43,8 +43,8 @@
     
     {
       "name": "Quick Pass Licences",
-      "price": "49",
-      "duration": "3 Hours",
+      "price": "10",
+      "duration": "1 Hours",
       "features": ["Full Category Access", "24/7 Support", "Instant Activation"]
     }
   ]
